@@ -24,7 +24,7 @@ macOS 14 Sonoma or later, on a Mac with Apple silicon or an Intel processor.
 2. Open it and drag ROS into Applications.
 3. Open ROS from your Applications folder.
 
-ROS is signed by its developer and notarized by Apple.
+ROS and its disk image are signed by its developer and notarized by Apple, so macOS checks both before anything opens.
 
 ## Updates
 
